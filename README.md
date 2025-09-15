@@ -12,9 +12,9 @@ Write a python program for matrix multiplication and inspect for failures.
 6. Stop the program. 
 
 ## Program
-Name: ANJALI K
+Name: THAMIZH KUMARAN
 
-Register number:212224040024
+Register number:212223240166
 ```
 import numpy as np
 
